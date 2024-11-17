@@ -1,0 +1,11 @@
+Gerar projeto Angular utilizando a CLI;
+Gerar componentes Angular;
+Arquitetura de projeto Angular;
+Criar e utilizar serviços;
+Rotas;
+Formlários;
+Eventos;
+@Input() para transferir dados aos componentes filhos;
+Smart e Dumb components;
+
+instalar node 18 e angular cli 15

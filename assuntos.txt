@@ -11,3 +11,4 @@ Observables;
 Smart e Dumb components;
 
 instalar node 18 e angular cli 15
+

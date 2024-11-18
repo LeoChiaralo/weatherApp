@@ -1,14 +1,13 @@
-Gerar projeto Angular utilizando a CLI;
-Gerar componentes Angular;
-Arquitetura de projeto Angular;
-Arquitetura Pull e Push
-Criar e utilizar serviços;
-Rotas;
-Formlários;
-Eventos;
-@Input() para transferir dados aos componentes filhos;
-Observables;
-Smart e Dumb components;
-
 instalar node 18 e angular cli 15
 
+conceitos:
+criando projeto e componentes com CLI;
+rotas e redirecionamento;
+ciclo de vida (onInit e onDestroy);
+utilizar onDestroy para evitar Memory Leak;
+pipe (takeUntil);
+criando e injetando de services;
+ngModel - two-way data binding;
+form simplificado com método onSubmit;
+ngIf para validação;
+@Input para passar dados do pai para filho;
